@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4ce592d3-5aca-4115-b938-ea8108c06617/deploy-status)](https://app.netlify.com/sites/gatsby-build-myroads/deploys)
+
 
 <!--  -->
 
